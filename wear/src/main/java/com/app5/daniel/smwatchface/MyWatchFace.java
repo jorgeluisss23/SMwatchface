@@ -478,7 +478,7 @@ public class MyWatchFace extends CanvasWatchFaceService {
                         }
                     }
 
-                    
+
                         if(x>= rectBotonCambio.left&&x<= rectBotonCambio.right&&y>= rectBotonCambio.top&&y<= rectBotonCambio.bottom){
 
                         contadorPath = 0;
