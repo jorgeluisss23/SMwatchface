@@ -476,6 +476,8 @@ public class MyWatchFace extends CanvasWatchFaceService {
                         } else {
                             isDigital = true;
                         }
+
+
                     }
 
 
