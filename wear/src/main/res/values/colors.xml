@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#000000</color>
+    <color name="digital_text">#ffffff</color>
+
+    <color name="color_fecha">#f12f34c7</color>
+    <color name="color_reloj_centro">#ffffff</color>
+    <color name="reloj_a">#39fae0</color>
+    <color name="pinkSailor">#fc5a8d</color>
+    <color name="goldSailor">#ffbf00</color>
+    <color name="mustardSailor">#ae841a</color>
+    <color name="purpleSailor">#9370db</color>
+    <color name="ppSailor">#8e63e8</color>
+
+
+
+
+</resources>
