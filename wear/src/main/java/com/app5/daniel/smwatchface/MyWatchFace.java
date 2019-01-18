@@ -497,6 +497,7 @@ public class MyWatchFace extends CanvasWatchFaceService {
 
                     }
 
+                    
 
                     break;
             }
